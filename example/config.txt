@@ -1,0 +1,2 @@
+Prefix plugins/SKESA/example
+Plugin SKESA inputfile fastqfiles.txt outputfile SKESA_out.fa
